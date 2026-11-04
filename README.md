@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm Laiba Shaikh
 
-<!--
-**laiba-03/laiba-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 SYBCA Student | Aspiring Cloud Engineer | Tech Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Computer Applications student passionate about technology, programming, and exploring innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🎓 Currently pursuing Bachelor of Computer Applications (BCA).
+- 💡 Interested in Cloud Computing, Artificial Intelligence, and Networking.
+- 🐍 Exploring Python, C++, PHP, and Linux.
+- ☁️ Currently building my knowledge of Cloud Technologies.
+- 🚀 Interested in developing practical projects and learning new technologies.
+- 🤝 Open to learning opportunities, internships, and collaborations.
+
+### 🛠️ Technical Skills
+- **Programming:** Python, C++, PHP
+- **Tools:** Git, GitHub, XAMPP
+- **Other Skills:** Advanced Excel, MS Word, PowerPoint
+- **Interests:** Cloud Computing, AI, Networking, Software Development
+
+### 📚 Currently Learning
+- Microsoft Azure Fundamentals
+- Cloud Computing
+- Networking Fundamentals
+- Artificial Intelligence
+
+### 🎯 Goals
+- Build practical technical projects.
+- Earn industry-recognised certifications.
+- Gain internship experience.
+- Develop skills in Cloud Engineering and Networking.
+
+### 📂 My Projects
+More projects coming soon! Stay tuned.
+
+### 📫 Connect With Me
+- **GitHub:** [@laiba-03](https://github.com/laiba-03)
+
+---
+⭐ Thanks for visiting my profile! Let's learn, build, and grow together.
